@@ -21,3 +21,13 @@
 /* .dropdown {
     margin-left: 70rem;
 } */
+
+#heading li a{
+    color: black;
+    /* text-decoration: none; */
+}
+
+#heading li {
+    list-style-type: none;
+    padding-left: 35px;
+}
